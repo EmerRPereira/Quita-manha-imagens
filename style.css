@@ -1,0 +1,38 @@
+body {
+    background-color: Black;
+}
+
+#Imagem1 {
+    width: 25%;
+    height: 200px;
+    border: 8px solid red;
+    padding: 5mm;
+    margin-left: 50mm;
+}
+
+#Imagem2 {
+    width: 30%;
+    border: 8px dotted green;
+    padding: 5mm;
+    margin-left: 70mm;
+}
+
+
+h1, h2, h3 {
+    color:blueviolet;
+    text-align: center;
+}
+
+p {
+    margin-left: 2cm;
+    font-size: 30px;
+    color: white;
+}
+
+b {
+    color:aquamarine;
+}
+
+i {
+    color:chartreuse;
+}
